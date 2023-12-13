@@ -29,7 +29,7 @@ Akshat Ghoshal and Noah Hendrickson
 - [turtlebot3_world Pathfinding (RRG)](https://drive.google.com/file/d/1Kk1kJKPra3oO7YbGBi_o7eJ6HrRICx2e/view?usp=sharing)
 ### Real world Run
 
-- [IRL Video (Sped Up)](https://drive.google.com/file/d/1DIKge9fj2YV9rSAfxMRnizcV_Uej9mTf/view?usp=sharing)
+- [IRL Video (Sped Up) (RRT)](https://drive.google.com/file/d/1DIKge9fj2YV9rSAfxMRnizcV_Uej9mTf/view?usp=sharing)
 
 
 ### Important Statistic Information on All Models
