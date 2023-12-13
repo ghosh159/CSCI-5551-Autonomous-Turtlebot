@@ -1,5 +1,4 @@
 # CSCI-5551-Autonomous-Turtlebot
-# Project Title
 
 ## Overview
 Mobile Robot Navigation Code. Turtlebot runs in unknown environment whether in simlation or the real world. It will pathfind to the provided x, y corrdinate. Utizes Gmapping to build a map and provides navigation in real time! All the code in this repo is written by Noah Hendrickson and Akshat Ghoshal as part of CSCI 5551 final project.
