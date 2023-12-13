@@ -9,7 +9,8 @@ Mobile Robot Navigation Code. Turtlebot runs in unknown environment whether in s
 - Python 3
 - C++ (typically included with ROS Noetic)
 - OpenCv
-- Gmapping
+- turtlebot3 repositories
+- turtlebot3 Gmapping
 
 ## Installation
 ### ROS Noetic
