@@ -30,7 +30,7 @@ Akshat Ghoshal and Noah Hendrickson
 - [RRG World](https://drive.google.com/file/d/1Kk1kJKPra3oO7YbGBi_o7eJ6HrRICx2e/view)
 ### Real world Run
 
-- [Your IRL Video (Sped Up)](https://drive.google.com/file/d/1DIKge9fj2YV9rSAfxMRnizcV_Uej9mTf/view?usp=sharing)
+- [IRL Video (Sped Up)](https://drive.google.com/file/d/1DIKge9fj2YV9rSAfxMRnizcV_Uej9mTf/view?usp=sharing)
 
 
 ### Important Statistic Information on All Models
