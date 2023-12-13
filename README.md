@@ -24,10 +24,8 @@ Akshat Ghoshal and Noah Hendrickson
 ## Links to Test Runs!
 
 ### Gazebo Runs
-- [House PathFinding](https://drive.google.com/file/d/1oT3jUucceCLrn0RwCp5VAVKqOkaiOxDu/view?usp=sharing)
-- [turtlebot3_world Pathfinding](https://drive.google.com/file/d/1Kk1kJKPra3oO7YbGBi_o7eJ6HrRICx2e/view?usp=sharing)
-- [PRMStar House](https://drive.google.com/file/d/1oT3jUucceCLrn0RwCp5VAVKqOkaiOxDu/view)
-- [RRG World](https://drive.google.com/file/d/1Kk1kJKPra3oO7YbGBi_o7eJ6HrRICx2e/view)
+- [House PathFinding (PRM*)](https://drive.google.com/file/d/1oT3jUucceCLrn0RwCp5VAVKqOkaiOxDu/view?usp=sharing)
+- [turtlebot3_world Pathfinding (RRG)](https://drive.google.com/file/d/1Kk1kJKPra3oO7YbGBi_o7eJ6HrRICx2e/view?usp=sharing)
 ### Real world Run
 
 - [IRL Video (Sped Up)](https://drive.google.com/file/d/1DIKge9fj2YV9rSAfxMRnizcV_Uej9mTf/view?usp=sharing)
