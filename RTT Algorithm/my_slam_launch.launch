@@ -1,0 +1,18 @@
+<launch>
+    <arg name="goal_x" default="4.0" />
+    <arg name="goal_y" default="3.0" />
+  <!-- Launch the SLAM node -->
+  <include file="$(find turtlebot3_slam)/launch/turtlebot3_slam.launch">
+    <arg name="slam_methods" value="gmapping" output="log" />
+  </include>
+
+  <!-- Launch the RRT Subscriber node -->
+  <node pkg="rtt_pkg" type="RRTsubsciber.py" name="rrt_subscriber" output="screen">
+    <param name="goal_x" value="$(arg goal_x)" />
+    <param name="goal_y" value="$(arg goal_y)" />
+  </node>
+
+  <!-- Launch the Path Follower node -->
+  <node pkg="rtt_pkg" type="PathFollower.py" name="path_follower" output="screen" />
+</launch>
+
